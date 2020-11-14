@@ -2,7 +2,7 @@
 
 ### Connect with me 
 
-<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
+[<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 
 ### Skills
 
@@ -11,4 +11,7 @@
 <img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badgee" />
 
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+
+
+[gmail]: mailto:nicozanf@gmail.com
 
