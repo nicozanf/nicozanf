@@ -17,7 +17,7 @@
 
 [gmail]: mailto:nicozanf@gmail.com
 
-### my Open Sources footsteps: ###
+### my Open Source footsteps: ###
 
 - 2009 Italian Translations and guides for the MoinMoin wiki (https://moinmo.in/NicoZanferrari)
 - 2011 report a bug for Gnome's Brasero CD/DVD mastering tool and help to triage it (https://bugzilla.gnome.org/show_bug.cgi?id=655601)
