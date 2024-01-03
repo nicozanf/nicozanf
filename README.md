@@ -19,7 +19,7 @@
 
 ### my Open Sources footsteps ###
 
-- 2009 Italian Translations and guides for the MinMoin wiki (https://moinmo.in/NicoZanferrari)
+- 2009 Italian Translations and guides for the MoinMoin wiki (https://moinmo.in/NicoZanferrari)
 - 2012 Italian Translations for the web2py python framework (http://www.web2py.com/) - my first PR on GitHub
 - 2016 contribution to Graylog like https://github.com/Graylog2/collector-sidecar/pull/101 for a Windows installer
 - 2019 creating pyInstaller binaries for web2py (https://github.com/nicozanf/web2py-pyinstaller)
