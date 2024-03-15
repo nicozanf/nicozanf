@@ -6,7 +6,7 @@
 
 - 2023 a PR on Elastic's documentation (https://github.com/elastic/beats/pull/35669)
 - 2022 a small contribution to Ansible's documentation (https://github.com/ansible-collections/ansible.windows/pull/455).
-       Useful stuff on Docker (https://hub.docker.com/repository/docker/nicozanf/emailrelay/general)
+- 2022 useful stuff on Docker (https://hub.docker.com/repository/docker/nicozanf/emailrelay/general)
 - 2020 start playing with py4web, creating pyInstaller binaries for py4web (https://github.com/nicozanf/py4web-pyinstaller).
        Rewrite all its manual with ReadTheDocs format (https://groups.google.com/g/py4web/c/90z-1ogn_d4/m/XVaosLDOCQAJ)
 - 2019 creating pyInstaller binaries for web2py (https://github.com/nicozanf/web2py-pyinstaller)
