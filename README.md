@@ -19,6 +19,10 @@
 
 [<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 
+### Blog
+
+<a href="https://nicozanf.wordpress.com"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg"></a>
+
 ### Skills
 
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
