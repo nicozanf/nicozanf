@@ -4,6 +4,7 @@
 
 ### my Open Source footsteps: ###
 
+- 2024 bug found and reported for rinohtype (https://github.com/brechtm/rinohtype/issues/436)
 - 2023 a PR on Elastic's documentation (https://github.com/elastic/beats/pull/35669)
 - 2022 a small contribution to Ansible's documentation (https://github.com/ansible-collections/ansible.windows/pull/455).
 - 2022 useful stuff on Docker (https://hub.docker.com/repository/docker/nicozanf/emailrelay/general)
