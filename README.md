@@ -4,6 +4,7 @@
 
 ### my Open Source footsteps: ###
 
+- 2026 creating the unofficial PSWriteHTML manual (https://github.com/nicozanf/PSWriteHTML-doc)
 - 2024 bug found and reported for rinohtype (https://github.com/brechtm/rinohtype/issues/436)
 - 2023 a PR on Elastic's documentation (https://github.com/elastic/beats/pull/35669)
 - 2022 a small contribution to Ansible's documentation (https://github.com/ansible-collections/ansible.windows/pull/455).
