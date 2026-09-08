@@ -1,6 +1,7 @@
 ## Hi there, I'm Nico Zanferrari👋 
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicozanf&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicozanf&theme=gotham&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicozanf&theme=gotham&animation=sequence) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicozanf&theme=gotham&animation=sequence)
 
 ### my Open Source footsteps: ###
 
