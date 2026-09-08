@@ -1,6 +1,6 @@
 ## Hi there, I'm Nico Zanferrari👋 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nicozanf&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicozanf&theme=default)
 
 ### my Open Source footsteps: ###
 
